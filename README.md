@@ -1,2 +1,4 @@
-# Sales-Data-Insights
-This project automates the extraction and visualization of sales data, providing a Power BI dashboard that offers real-time insights into sales trends, customer activity, and product performance. The solution enhances decision-making and operational efficiency by reducing manual data analysis and highlighting key business metrics.
+# Sales Data Insights
+
+### Description
+This project provides an automated solution to unlock critical sales insights that were previously inaccessible to the sales team, enhancing decision-making and reducing manual data handling. The automated dashboard created in Power BI provides real-time insights into sales trends, top customers, and products to support data-driven decision-making.
